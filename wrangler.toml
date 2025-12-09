@@ -1,0 +1,3 @@
+routes = [
+  { pattern = "okmini.edgeone.dev/*", script = "worker" }
+]
